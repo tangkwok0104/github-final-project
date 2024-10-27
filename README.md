@@ -32,3 +32,8 @@ For example, if:
 - Rate (r) = 5%
 
 The output will be:
+Simple Interest = 1000 * 5 * 3 / 100 = 150
+
+## Conclusion
+
+This simple interest calculator is a straightforward tool that allows users to easily compute the interest on a given principal amount over a specified time period at a given interest rate.
