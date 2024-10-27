@@ -106,9 +106,9 @@ Testing is crucial for ensuring code quality. When adding new features or fixing
 
 For any questions or further assistance, feel free to reach out:
 
-- **Email**: support@yourstartup.com
+- **Email**: support@finalproject.com
 - **Slack Channel**: #dev-team
-- **GitHub Issues**: [Link to Issues](https://github.com/your-org/your-repo/issues)
+- **GitHub Issues**: [Link to Issues](https://github.com/tangkwok0104/github-final-project/edit/main/CONTRIBUTING.md)
 
 ---
 
